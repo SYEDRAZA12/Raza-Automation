@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Walmart Automation Test" duration-ms="47221" started-at="2017-09-19T02:27:25Z" finished-at="2017-09-19T02:28:12Z">
+    <groups>
+    </groups>
+    <test name="Walmart Home" duration-ms="47221" started-at="2017-09-19T02:27:25Z" finished-at="2017-09-19T02:28:12Z">
+      <class name="walmartTesting.TestWalmartWeb">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:walmartTesting.TestWalmartWeb@97e1986]" name="setUp" is-config="true" duration-ms="21843" started-at="2017-09-18T20:27:25Z" finished-at="2017-09-18T20:27:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[8.1]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[38.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://walmart.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHome()[pri:0, instance:walmartTesting.TestWalmartWeb@97e1986]" name="testHome" duration-ms="24700" started-at="2017-09-18T20:27:47Z" finished-at="2017-09-18T20:28:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:walmartTesting.TestWalmartWeb@97e1986]" name="cleanUp" is-config="true" duration-ms="576" started-at="2017-09-18T20:28:11Z" finished-at="2017-09-18T20:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- walmartTesting.TestWalmartWeb -->
+    </test> <!-- Walmart Home -->
+  </suite> <!-- Walmart Automation Test -->
+</testng-results>

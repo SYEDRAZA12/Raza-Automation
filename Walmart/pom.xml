@@ -10,7 +10,6 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>Walmart</artifactId>
-
     <dependencies>
         <dependency>
             <groupId>Raza-Web-Automation</groupId>
@@ -18,6 +17,26 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
 
-
+                <configuration>
+                    <suiteXmlFiles>
+                        <suiteXmlFile>target/test-classes/WalmartTestRunner.xml</suiteXmlFile>
+                    </suiteXmlFiles>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 </project>

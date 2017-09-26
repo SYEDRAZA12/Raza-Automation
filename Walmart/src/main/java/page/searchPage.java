@@ -11,7 +11,7 @@ public class searchPage extends CommonAPI {
         typeByCss("#global-search-input","Mac Book");
         clickByXpath("//*[@id=\"global-search-form\"]/div/div[3]/button/span[1]");
         clearInput("#global-search-input");
-        typeByCss("#global-search-input","iphone");
+       /* typeByCss("#global-search-input","iphone");
         clickByXpath("//*[@id=\"global-search-form\"]/div/div[3]/button/span[1]");
         //clickByCss("//*[@id=\"global-search-form\"]/div/div[3]/button");
         clearInput("#global-search-input");
@@ -23,7 +23,7 @@ public class searchPage extends CommonAPI {
         clickByXpath("//*[@id=\"global-search-form\"]/div/div[3]/button/span[1]");
         //clickByCss("//*[@id=\"global-search-form\"]/div/div[3]/button");
         clearInput("#global-search-input");
-        typeByCss("#global-search-input","Love");
+        typeByCss("#global-search-input","Love");*/
     }
 
 
