@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f73fa3b7-6e2e-4fc5-b49f-ef9f2b50faf5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_9_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="$PROJECT_DIR$/Amazon/Amazon.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/Generic.iml" afterPath="$PROJECT_DIR$/Generic/Generic.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Generic/pom.xml" afterPath="$PROJECT_DIR$/Generic/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/Walmart.iml" afterPath="$PROJECT_DIR$/Walmart/Walmart.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/src/test/resources/WalmartTestRunner.xml" afterPath="$PROJECT_DIR$/Walmart/src/test/resources/WalmartTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/Walmart Automation Test/Walmart Home.html" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/Walmart Automation Test/Walmart Home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/Walmart Automation Test/Walmart Home.xml" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/Walmart Automation Test/Walmart Home.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/junitreports/TEST-walmartTesting.TestWalmartWeb.xml" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/junitreports/TEST-walmartTesting.TestWalmartWeb.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/old/Walmart Automation Test/methods-alphabetical.html" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/old/Walmart Automation Test/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/old/Walmart Automation Test/methods.html" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/old/Walmart Automation Test/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/old/Walmart Automation Test/testng.xml.html" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/old/Walmart Automation Test/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/Walmart/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Walmart/target/test-classes/WalmartTestRunner.xml" afterPath="$PROJECT_DIR$/Walmart/target/test-classes/WalmartTestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="f73fa3b7-6e2e-4fc5-b49f-ef9f2b50faf5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
@@ -204,16 +176,19 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Amazon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="290" />
