@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Amazon Automation Test" duration-ms="35531" started-at="2017-09-19T02:26:44Z" finished-at="2017-09-19T02:27:19Z">
+  <suite name="Amazon Automation Test" duration-ms="43414" started-at="2017-10-09T01:59:09Z" finished-at="2017-10-09T01:59:52Z">
     <groups>
     </groups>
-    <test name="Amazon Home" duration-ms="35531" started-at="2017-09-19T02:26:44Z" finished-at="2017-09-19T02:27:19Z">
+    <test name="Amazon Home" duration-ms="43414" started-at="2017-10-09T01:59:09Z" finished-at="2017-10-09T01:59:52Z">
       <class name="page.TestAmazonSearch">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:page.TestAmazonSearch@97e1986]" name="setUp" is-config="true" duration-ms="22566" started-at="2017-09-18T20:26:44Z" finished-at="2017-09-18T20:27:07Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:page.TestAmazonSearch@59e84876]" name="setUp" is-config="true" duration-ms="19194" started-at="2017-10-08T19:59:09Z" finished-at="2017-10-08T19:59:28Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
             </param>
             <param index="3">
               <value>
-                <![CDATA[Sierra]]>
+                <![CDATA[10]]>
               </value>
             </param>
             <param index="4">
@@ -36,7 +36,7 @@
             </param>
             <param index="5">
               <value>
-                <![CDATA[53.0]]>
+                <![CDATA[60.0]]>
               </value>
             </param>
             <param index="6">
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testHome()[pri:0, instance:page.TestAmazonSearch@97e1986]" name="testHome" duration-ms="12249" started-at="2017-09-18T20:27:07Z" finished-at="2017-09-18T20:27:19Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:page.TestAmazonSearch@59e84876]" name="testHome" duration-ms="21918" started-at="2017-10-08T19:59:28Z" finished-at="2017-10-08T19:59:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:page.TestAmazonSearch@97e1986]" name="cleanUp" is-config="true" duration-ms="662" started-at="2017-09-18T20:27:19Z" finished-at="2017-09-18T20:27:19Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:page.TestAmazonSearch@59e84876]" name="cleanUp" is-config="true" duration-ms="2215" started-at="2017-10-08T19:59:50Z" finished-at="2017-10-08T19:59:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->

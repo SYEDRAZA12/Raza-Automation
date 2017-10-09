@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Walmart Automation Test" duration-ms="47221" started-at="2017-09-19T02:27:25Z" finished-at="2017-09-19T02:28:12Z">
+  <suite name="Walmart Automation Test" duration-ms="42071" started-at="2017-10-09T01:54:49Z" finished-at="2017-10-09T01:55:31Z">
     <groups>
     </groups>
-    <test name="Walmart Home" duration-ms="47221" started-at="2017-09-19T02:27:25Z" finished-at="2017-09-19T02:28:12Z">
+    <test name="Walmart Home" duration-ms="42071" started-at="2017-10-09T01:54:49Z" finished-at="2017-10-09T01:55:31Z">
       <class name="walmartTesting.TestWalmartWeb">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:walmartTesting.TestWalmartWeb@97e1986]" name="setUp" is-config="true" duration-ms="21843" started-at="2017-09-18T20:27:25Z" finished-at="2017-09-18T20:27:47Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:walmartTesting.TestWalmartWeb@7946e1f4]" name="setUp" is-config="true" duration-ms="20647" started-at="2017-10-08T19:54:49Z" finished-at="2017-10-08T19:55:10Z">
           <params>
             <param index="0">
               <value>
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="testHome()[pri:0, instance:walmartTesting.TestWalmartWeb@97e1986]" name="testHome" duration-ms="24700" started-at="2017-09-18T20:27:47Z" finished-at="2017-09-18T20:28:11Z">
+        <test-method status="PASS" signature="testHome()[pri:0, instance:walmartTesting.TestWalmartWeb@7946e1f4]" name="testHome" duration-ms="20813" started-at="2017-10-08T19:55:10Z" finished-at="2017-10-08T19:55:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testHome -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:walmartTesting.TestWalmartWeb@97e1986]" name="cleanUp" is-config="true" duration-ms="576" started-at="2017-09-18T20:28:11Z" finished-at="2017-09-18T20:28:12Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:walmartTesting.TestWalmartWeb@7946e1f4]" name="cleanUp" is-config="true" duration-ms="524" started-at="2017-10-08T19:55:31Z" finished-at="2017-10-08T19:55:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
