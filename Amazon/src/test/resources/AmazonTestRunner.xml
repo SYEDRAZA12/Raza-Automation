@@ -18,7 +18,7 @@
             <class name="home.TestAmazonSearch"/>
             <!--<class name="search.SearchItems"/>-->
             <!--<class name="home.TestAmazonSearch"/>-->
-            <class name="search.SearchItems"/>
+            <!--class name="search.SearchItems"/>-->
             <!--<class name="search.DropDownMenuSearch"/>-->
 
         </classes>
