@@ -195,12 +195,12 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'testHome')
 data.setCell(0, 2, 'walmartTesting.TestWalmartWeb')
-data.setCell(0, 3, 29999);
+data.setCell(0, 3, 20704);
 window.suiteTableData['Walmart_Automation_Test']= { tableData: data, tableDiv: 'times-div-Walmart_Automation_Test'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 29 seconds</span>
+              <span class="suite-total-time">Total running time: 20 seconds</span>
               <div id="times-div-Walmart_Automation_Test">
               </div> <!-- times-div-Walmart_Automation_Test -->
             </div> <!-- times-div -->
@@ -227,18 +227,34 @@ return data;
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
               <div class="chronological-class-name">walmartTesting.TestWalmartWeb</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">extentSetup(org.testng.TestRunner@1c32386d)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(false, browserstack, Windows, 8.1, Chrome, 38.0, http://walmart.com)</span>
-                <span class="method-start">0 ms</span>
+                <span class="method-start">1057 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="configuration-method before">
+                <span class="method-name">startExtent(public void walmartTesting.TestWalmartWeb.testHome())</span>
+                <span class="method-start">22106 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">testHome</span>
-                <span class="method-start">10336 ms</span>
+                <span class="method-start">22138 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
-                <span class="method-name">cleanUp</span>
-                <span class="method-start">40335 ms</span>
+                <span class="method-name">afterEachTestMethod([TestResult name=testHome status=SUCCESS method=TestWalmartWeb.testHome()[pri:0, instance:walmartTes...)</span>
+                <span class="method-start">42846 ms</span>
               </div> <!-- configuration-method after -->
+              <div class="configuration-method after">
+                <span class="method-name">cleanUp</span>
+                <span class="method-start">43948 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-suite after">
+                <span class="method-name">generateReport</span>
+                <span class="method-start">44674 ms</span>
+              </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
       </div> <!-- main-panel-root -->
