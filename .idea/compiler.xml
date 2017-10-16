@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Amazon" />
         <module name="Generic" />
+        <module name="RestApi" />
         <module name="Walmart" />
       </profile>
     </annotationProcessing>
@@ -15,6 +16,7 @@
       <module name="Amazon" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="RazaWebAutomation" target="1.8" />
+      <module name="RestApi" target="1.8" />
       <module name="Walmart" target="1.8" />
     </bytecodeTargetLevel>
   </component>

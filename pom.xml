@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>Amazon</module>
         <module>Walmart</module>
+        <module>RestApi</module>
     </modules>
     <dependencyManagement>
         <dependencies>

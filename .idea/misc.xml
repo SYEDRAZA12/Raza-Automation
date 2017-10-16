@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Walmart/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/pom.xml" />
+        <option value="$PROJECT_DIR$/RestApi/pom.xml" />
       </list>
     </option>
   </component>
